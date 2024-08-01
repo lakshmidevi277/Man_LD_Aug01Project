@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/lakshmidevi277/Man_LD_Aug01Project
   gitUsername: lakshmidevi277
   gitBranch: main
+- name: MarketoTest1011
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
