@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">lakshmi</value>
-    <value name="lastModifiedDate">1722512859722</value>
+    <value name="lastModifiedDate">1722513076345</value>
     <value name="displayName">marketo_query</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -59,14 +59,18 @@
           <null name="services"/>
         </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">ccs:queryMarketo_1011</value>
-          <value name="serviceName">ccs:queryMarketo_1011</value>
-          <value name="displayName">queryMarketo_1011</value>
+          <value name="description">ccs:queryLeads_Marketo_1011</value>
+          <value name="serviceName">ccs:queryLeads_Marketo_1011</value>
+          <value name="displayName">queryLeads_Marketo_1011</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
         <Boolean name="serviceReferenceResolved">true</Boolean>
         <value name="nodePathForDebug">0</value>
+        <number name="ui_step_index" type="Long">1</number>
+        <value name="nodePathNew">0</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="lineNumberForDebug" type="Long">1</number>
       </record>
     </record>
   </record>
