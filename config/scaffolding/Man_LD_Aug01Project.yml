@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Man_LD_Aug01Project
+  gitServerName: Lakshmi
+  gitUrl: https://github.com/lakshmidevi277/Man_LD_Aug01Project
+  gitUsername: lakshmidevi277
+  gitBranch: main
