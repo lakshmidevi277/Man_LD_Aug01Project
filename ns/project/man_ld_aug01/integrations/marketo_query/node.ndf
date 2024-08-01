@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">azsprotenant6cscauto</value>
-    <value name="createdDate">1722484098104</value>
-    <value name="lastModifiedDate">1722484098104</value>
+    <value name="lastModifiedBy">lakshmi</value>
+    <value name="lastModifiedDate">1722512854720</value>
     <value name="displayName">marketo_query</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -60,12 +59,14 @@
           <null name="services"/>
         </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">ccs:queryLeads_Marketo_1011</value>
-          <value name="serviceName">ccs:queryLeads_Marketo_1011</value>
-          <value name="displayName">queryLeads_Marketo_1011</value>
+          <value name="description">ccs:queryMarketo_1011</value>
+          <value name="serviceName">ccs:queryMarketo_1011</value>
+          <value name="displayName">queryMarketo_1011</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
+        <value name="nodePathForDebug">0</value>
       </record>
     </record>
   </record>
