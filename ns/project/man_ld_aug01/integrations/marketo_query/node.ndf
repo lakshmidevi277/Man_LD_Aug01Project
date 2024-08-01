@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">lakshmi</value>
-    <value name="lastModifiedDate">1722513692334</value>
+    <value name="lastModifiedDate">1722513774346</value>
     <value name="displayName">marketo_query</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -59,9 +59,9 @@
           <null name="services"/>
         </record>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">flowservice:queryFlow_Marketo_1011</value>
-          <value name="serviceName">flowservice:queryFlow_Marketo_1011</value>
-          <value name="displayName">queryFlow_Marketo_1011</value>
+          <value name="description">flowservice:CRUD_Marketo_1011</value>
+          <value name="serviceName">flowservice:CRUD_Marketo_1011</value>
+          <value name="displayName">CRUD_Marketo_1011</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
