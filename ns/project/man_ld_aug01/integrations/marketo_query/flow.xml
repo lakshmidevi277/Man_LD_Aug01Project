@@ -5,7 +5,7 @@
 
   <!-- nodes -->
 
-<INVOKE NAME="MarketoTest1011" SERVICE="ccs:getLeadsByIds_Marketo_1011">
+<INVOKE NAME="MarketoTest1011" SERVICE="ccs:queryLeads_Marketo_1011">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>
