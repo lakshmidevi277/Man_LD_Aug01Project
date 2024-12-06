@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: karthikbm
   gitBranch: main
+- name: CommonUtilities
+  gitServerName: asam22
+  gitUrl: https://github.webmethods.io/ades
+  gitUsername: asam
+  gitBranch: main

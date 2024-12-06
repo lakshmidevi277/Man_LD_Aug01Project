@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="MarketoTest1011">1.0</value>
+    <value name="CommonUtilities">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">18</value>
+  <value name="build">19</value>
   <null name="description"/>
   <value name="created_date">01-08-2024 03:19:38 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-01T12:05:30.992951824Z</value>
+  <value name="lastUpdated">2024-12-06T12:23:13.911282105Z</value>
   <value name="wmProjectId">fl5545062ef4716dabae7419</value>
   <value name="creator">csc automation</value>
 </Values>
